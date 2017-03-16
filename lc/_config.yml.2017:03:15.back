@@ -63,9 +63,8 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: jacman
-stylus:
-  compress: true
+theme: landscape
+
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
@@ -81,5 +80,6 @@ baidusitemap:
   path: baidusitemap.xml
 
 
-
-
+cnzz_lc951:
+  enable: true
+  siteid: 1261503851   ## e.g. 1261503851 your cnzz tongji site id
