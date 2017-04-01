@@ -36,3 +36,17 @@ tags: hexo debug 异常 解决办法
 	
 异常原因：在文章tag：冒号后面少了一个空格
 解决：加一个空格即修复异常
+
+
+## 2、hexo cannot get tags
+参考：https://www.zhihu.com/question/29017171
+	
+	1.	hexo new page "tags"
+	2. 如果有评论：
+		type: "tags"
+		comments: false
+	
+
+	 
+	 
+	 

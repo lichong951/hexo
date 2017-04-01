@@ -1,7 +1,7 @@
 ---
 title: 简历--Android开发-李冲
 date: 2017-03-11 20:11:01
-tags: 简历 android 李冲
+tags: 简历 android
 ---
 
 # Android开发-李冲
@@ -86,7 +86,7 @@ GitHub：*https://lichong951.github.io/*
 	
 	5、对接第三方技术集成（android系统定制；语音技术提供；语义理解；语音合成；行为统计）
 	
-	6、持续重构抽取业务层进行接口化快速完成第三方机器人的定制开发（浦发银行小浦、海淀安全馆安全大使、以及重要合作伙伴的嘉宾演出定制开发等（例如：红黄蓝百年讲堂十八罗汉演出））
+	6、重构抽取业务层快速交付第三方机器人的定制开发（如：浦发银行小浦、海淀安全馆安全大使））
 	
 	7、技术面试应聘的Android开发工程师，组建Android开发团队
 	
@@ -100,7 +100,7 @@ GitHub：*https://lichong951.github.io/*
 ## 车讯互联
 ![Alt text](http://omnk3xsvf.bkt.clouddn.com/chexun_logo.png)
 
-2014/05--2015/06 （清华科技园办公）
+2012/05--2015/06 （清华科技园办公）
 
 **项目：买车通**
 
@@ -120,7 +120,7 @@ GitHub：*https://lichong951.github.io/*
 		
 **职责：**
 
-	1、前期一个人开发；后期技术面试应聘android工程师，组建3人android技术团队
+	1、刚开始独立开发，后来随着业务扩展；进行技术面试把关组建android技术团队
 	
 	2、按产品需求制定app开发计划时间表；拆分需求制定app版本迭代计划
 	
@@ -136,37 +136,6 @@ GitHub：*https://lichong951.github.io/*
 	
 	8、常规的性能优化、UI适配、分辨率适配、机型适配、省电策略以及android技术解决方案等
 	
-## 经管之家（原经济论坛）
-![Alt text](http://omnk3xsvf.bkt.clouddn.com/jg_logo.jpeg)
-
-2013/04--2014/06 (丹龙大厦办公)
-
-**项目：**人大经济论坛（独立开发）
-
-**简介：**
-	
-	原人大经济论坛-经管类知识的互动学习平台,学习经管知识的大门户：原创+精选。由国内大的经济、管理、金融、统计在线教育和咨询网站——人大经济论坛出品。
-	
-	【经管之家特色】
-	
-	1.经济学人区-做为论坛活跃的版块之一，拥有丰富的学术内容交流!
-	
-	2.经济论坛版块-包含所有经济相关的话题讨论。
-
-**项目：**Peixun.net（独立开发）
-
-**简介：**
-	
-	在线学习科学软件，精心制作的视频教程, 包括
-	
-	1、统计软件：SAS，SPSS，Stata, R语言，Eviews, 数据挖掘，数据分析，数据架构，商业智能，Lingo，Lisrel，AMOS，Matlab，Splus, DPS，Clementine
-	
-	2、数据库软件：SQLserver,Mysql,Oracle,db2,MongoDB,Nosql，Datawarehouse
-	
-	3、科学软件：Latex，endnote,Minitab,Mathematica,Mplus, Gauss,Winbugs, Microfit, DEA,Winrats,Maple ，risk,Crystal ball ,gams,vensim,cge
-	
-	4、常用软件：Exce, Photoshop（PS）, AutoCAD,PPT，Word,Access，Acrobat,CorelDRAW,Flash,Dreamweaver,3dx max，SEO
-
 
 	
 	
