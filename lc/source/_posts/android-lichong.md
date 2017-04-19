@@ -52,7 +52,7 @@ GitHub：*https://lichong951.github.io/*
 ## 北京萝卜科技有限公司
 ![Alt text](http://omnk3xsvf.bkt.clouddn.com/luobotec_logo.jpg)
 
-2015/06--2016/11  (现已搬到深圳办公)
+2015/06--至今  (现已搬到深圳办公)
 
 **项目：小萝卜伙伴机器人**
 
