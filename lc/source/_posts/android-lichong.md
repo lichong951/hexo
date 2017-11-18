@@ -20,39 +20,39 @@ tags: 简历 android
 GitHub：*https://lichong951.github.io/*
 
 > ### 专业技能
-
-	5年多Android开发；有项目小组leader经历
 	
-	了解常见的23种设计模式；熟悉常用的单利模式、观察者模式、工厂模式等
+	有UI测试框架espresso、uiautomator、junit实战经历，具有一定的项目、组件、业务重构能力；
 	
-	有一定的重构经验；了解单元测试书写
+	熟悉JVM虚拟机系统结构和内存机制，插件化和热修复技术；
 	
-	熟悉第三方sdk集成；如：百度、友盟统计；支付宝等
+	有JNI/C开发相关经验；
 	
-	熟悉Eclipse、Android Studio开发工具
+	熟练Java编程、⺴络编程、多线程编程、进程间通信和常⽤开源框架等；
 	
-	熟悉SVN、Git版本控制
+	具有较强的学习能⼒和主动性，具有良好的沟通能⼒和团队合作精神
 	
-	了解MVC、MVP、MVVM框架结构
+	jenkins实战经历从环境搭建、项目构建、打包、UI测试、monkey测试、发布、上线进行一站式解决
 	
-	了解RXjava使用方法
-	
-	熟悉Handler消息机制、Event Bus基本原理
-	
-	熟悉OkHttp网络框架使用，常用GSON或者FastJson（性能存在争议）解析Json数据
-	
-	熟悉Glide、imageLoader等网络图片加载三级缓存策略
-	
-	熟悉压力测试Monkey命令，常用来对项目进行压测
+	对Adnroid下的架构设计，并行开发，网络管理，内存管理，消息通讯机制，安全机制有自己的深入体会和读到见解
 
 > ### 工作及项目经历
 
+## 亮风台信息科技有限公司
+![Alt text](http://omnk3xsvf.bkt.clouddn.com/hiscene_logo.jpg)
+2017/05--至今
+
+**项目：汽车之家AR SDK开发**
+
+**简介：**
+![Alt text](http://omnk3xsvf.bkt.clouddn.com/hiscene_autohome.jpg)
+![Alt text](http://omnk3xsvf.bkt.clouddn.com/autohome2.png)
+![Alt text](http://omnk3xsvf.bkt.clouddn.com/autohome1.png)
 
 
 ## 北京萝卜科技有限公司
 ![Alt text](http://omnk3xsvf.bkt.clouddn.com/luobotec_logo.jpg)
 
-2015/06--至今  (现已搬到深圳办公)
+2015/06--2017/03  (现已搬到深圳办公)
 
 **项目：小萝卜伙伴机器人**
 
@@ -94,8 +94,6 @@ GitHub：*https://lichong951.github.io/*
 小萝卜展出留影
 	
 ![Alt text](http://omnk3xsvf.bkt.clouddn.com/8af2f0c5a8fde293cbc8f82b7a074fa9.jpg)
-![Alt text](http://omnk3xsvf.bkt.clouddn.com/8632c811ed366b500cae29cca7862129.jpg)
-![Alt text](http://omnk3xsvf.bkt.clouddn.com/e7dceb8b3a2cea4eb0a04ebac4e95b8c.jpg)
 
 ## 车讯互联
 ![Alt text](http://omnk3xsvf.bkt.clouddn.com/chexun_logo.png)
