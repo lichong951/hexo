@@ -10,7 +10,6 @@ tags: 简历 android
 **姓 名：李冲**								                 
 
 
-
 邮  箱：*lichongmac@163.com*
 
 学 历：本科
@@ -21,19 +20,21 @@ GitHub：*https://lichong951.github.io/*
 
 > ### 专业技能
 	
-	有UI测试框架espresso、uiautomator、junit实战经历，具有一定的项目、组件、业务重构能力；
-	
-	熟悉JVM虚拟机系统结构和内存机制，插件化和热修复技术；
+	有一定项目、组件、SDK、技术人员结构优化等经历；
 	
 	有JNI/C开发相关经验；
 	
-	熟练Java编程、⺴络编程、多线程编程、进程间通信和常⽤开源框架等；
+	熟练Java编程、网络编程、多线程编程、进程间通信和常⽤开源框架等；
 	
 	具有较强的学习能⼒和主动性，具有良好的沟通能⼒和团队合作精神
 	
 	jenkins实战经历从环境搭建、项目构建、打包、UI测试、monkey测试、发布、上线进行一站式解决
 	
-	对Adnroid下的架构设计，并行开发，网络管理，内存管理，消息通讯机制，安全机制有自己的深入体会和读到见解
+	对Adnroid下的架构设计，并行开发，网络管理，内存管理，消息通讯机制，安全机制有较深入体会
+	
+	有UI测试框架espresso、uiautomator、junit实战经历
+	
+	了解AR开发技术结构，能独立使用各大AR平台技术完成AR业务
 
 > ### 工作及项目经历
 
@@ -41,7 +42,7 @@ GitHub：*https://lichong951.github.io/*
 ![Alt text](http://omnk3xsvf.bkt.clouddn.com/hiscene_logo.jpg)
 2017/05--至今
 
-**项目：汽车之家AR SDK开发**
+**项目：汽车之家AR 组件开发**
 
 **简介：**
 ![Alt text](http://omnk3xsvf.bkt.clouddn.com/hiscene_autohome.jpg)
