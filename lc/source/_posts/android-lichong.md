@@ -1,46 +1,84 @@
 ---
-title: 简历--Android开发-李冲
+title: 简历-李冲
 date: 2017-03-11 20:11:01
 tags: 简历 android
 ---
 
-# Android开发-李冲
+
 > ### 个人信息
 
-**姓 名：李冲**								                 
+**姓 名：李冲**	
 
+工作年限：7 年		                 
 
-邮  箱：*lichongmac@163.com*
+岗位：Android高级工程师
 
 学 历：本科
 
+邮  箱：*lichongmac@163.com*        
+
 专 业：计算机科学与技术
 
-GitHub：*https://lichong951.github.io/*
+博客地址：*[http://blog.51cto.com/4789781](http://blog.51cto.com/4789781)*  
 
-> ### 专业技能
-	
-	有一定项目、组件、SDK、技术人员结构优化等经历；
-	
-	有JNI/C开发相关经验；
-	
-	熟练Java编程、网络编程、多线程编程、进程间通信和常⽤开源框架等；
-	
-	具有较强的学习能⼒和主动性，具有良好的沟通能⼒和团队合作精神
-	
-	jenkins实战经历从环境搭建、项目构建、打包、UI测试、monkey测试、发布、上线进行一站式解决
-	
-	对Adnroid下的架构设计，并行开发，网络管理，内存管理，消息通讯机制，安全机制有较深入体会
-	
-	有UI测试框架espresso、uiautomator、junit实战经历
-	
-	了解AR开发技术结构，能独立使用各大AR平台技术完成AR业务
-
-> ### 工作及项目经历
+# 工作经历
 
 ## 亮风台信息科技有限公司
 ![Alt text](http://omnk3xsvf.bkt.clouddn.com/hiscene_logo.jpg)
-2017/05--至今
+
+2018/02--至今 
+
+**项目：HiARSDK定制化开发**
+
+**简介：** 
+	
+	主要服务于：
+				汽车之家
+				玉泉旅游景区
+				上汽AR说明书
+				民生银行研究院
+				河北师大AR实验室等
+
+
+**关键技术：**
+
+	图像识别、图像跟踪、slam位姿跟踪等底层算法集成；
+				
+	Camera相机方案优化等；
+
+主要职责：
+
+	按客户AR业务场景需求选择合适的图像方案，设计开发交付符合客户要求（包体大小、性能等）的HiARSDK集成包；
+	提供Android技术支持2D图像算法组、Slam位姿识别算法组、CNN卷积网络或神经网络算法组；
+	设计开发Android工程化开发测试流程；
+	
+
+**项目：AR教学之化学分子方程式展示**
+
+**简介：**
+	
+	应某大学在科技教育的背景下，提倡使用AR/VR技术进行物理、化学教学。提高教学质量，同时也开拓同学们队新技术新概念的认知
+	主要展示：
+		1、元素周期表的常见元素的物理属性
+		2、常见较为简单的化学方程式反应过程模拟
+		3、使用AR中包括的图像识别、图像跟踪、模型渲染等技术
+		
+**职责：**
+
+	1、参考实际的元素、分子式、实物等物理属性设计合理的渲染模型
+	2、参考实际的化学反应方程式设计合理的化学反应过程。例如：H + O 在燃烧的情况下生成水
+	3、针对识别图的规范提供提高识别率的建议
+	4、设计一系列化学反应方程式的反应逻辑过程并实现开发
+	5、结合同事、客户以及专业老师的使用体验情况；快速迭代版本并发布，提高开发质量，交互体验质量等
+	6、快速迭代发布android、IOS、PC、MAC等平台安装测试包
+
+**作品展示：**
+
+![](http://i2.51cto.com/images/blog/201805/13/ea45c42043d80fd1bf1d93ef96c9c508.png?x-oss-process=image/watermark,size_16,text_QDUxQ1RP5Y2a5a6i,color_FFFFFF,t_100,g_se,x_10,y_10,shadow_90,type_ZmFuZ3poZW5naGVpdGk=)
+
+![](http://i2.51cto.com/images/blog/201805/13/d7272069477d7aa4a9399b0e2aa8a13f.png?x-oss-process=image/watermark,size_16,text_QDUxQ1RP5Y2a5a6i,color_FFFFFF,t_100,g_se,x_10,y_10,shadow_90,type_ZmFuZ3poZW5naGVpdGk=)
+
+2017/05--2017.12
 
 **项目：汽车之家AR 组件开发**
 
@@ -134,11 +172,17 @@ GitHub：*https://lichong951.github.io/*
 	7、解析竞争app的技术、使用习惯、UI迭代趋势、内容质量、用户粘性等，提供详尽的竟品报告
 	
 	8、常规的性能优化、UI适配、分辨率适配、机型适配、省电策略以及android技术解决方案等
-	
 
+> ### 专业技能
 	
+	java：熟悉java的编程原理，理解OpenGL 熟练使用常见设计模式、熟练使用Android studio
 	
-
-
+	C#	:	熟悉C# 编译原理。会使用Unity3D构建业务模型
+	
+	C/C++:了解c、c++编译运行过程。熟悉JNI接口编辑
+	
+	Python:了解Python的编程设计，能使用Python构建Tenflow的模型训练
+	
+	工具链：Android studio、Unity3D、Jenkins、Junit、Espresso、Gradle、pepline、MyQR、Git等
 
 
