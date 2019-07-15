@@ -92,5 +92,3 @@ tags: 数据结构 算法
 ### 链表
 ### 数组
 ### 哈希表
-
-![MacDown logo](../pic/me.jpg)
