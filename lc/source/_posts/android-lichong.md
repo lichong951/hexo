@@ -9,7 +9,7 @@ tags: 简历 android
 
 **姓 名：李冲**	
 
-工作年限：7 年		                 
+工作年限：8 年		                 
 
 岗位：Android高级工程师
 
@@ -22,11 +22,19 @@ tags: 简历 android
 博客地址：*[http://blog.51cto.com/4789781](http://blog.51cto.com/4789781)*  
 
 # 工作经历
+## 广联达科技股份有限公司（股票代码：002410）
+2019/03--至今
+
+**项目：人帽一体机**
+
+**项目：新工地宝**
+
+**项目：速登宝**
 
 ## 亮风台信息科技有限公司
-![Alt text](http://omnk3xsvf.bkt.clouddn.com/hiscene_logo.jpg)
+![Alt text](../pic/about_hiscene_logo.png)
 
-2018/02--至今 
+2017/05--2018/12 
 
 **项目：HiARSDK定制化开发**
 
@@ -78,18 +86,10 @@ tags: 简历 android
 
 ![](http://i2.51cto.com/images/blog/201805/13/d7272069477d7aa4a9399b0e2aa8a13f.png?x-oss-process=image/watermark,size_16,text_QDUxQ1RP5Y2a5a6i,color_FFFFFF,t_100,g_se,x_10,y_10,shadow_90,type_ZmFuZ3poZW5naGVpdGk=)
 
-2017/05--2017.12
-
-**项目：汽车之家AR 组件开发**
-
-**简介：**
-![Alt text](http://omnk3xsvf.bkt.clouddn.com/hiscene_autohome.jpg)
-![Alt text](http://omnk3xsvf.bkt.clouddn.com/autohome2.png)
-![Alt text](http://omnk3xsvf.bkt.clouddn.com/autohome1.png)
 
 
 ## 北京萝卜科技有限公司
-![Alt text](http://omnk3xsvf.bkt.clouddn.com/luobotec_logo.jpg)
+![Alt text](../pic/luobo.jpg)
 
 2015/06--2017/03  (现已搬到深圳办公)
 
@@ -131,11 +131,11 @@ tags: 简历 android
 	
 	8、对外提供技术支持服务，对公司的工厂提供android技术支持促进机器人量产
 小萝卜展出留影
-	
-![Alt text](http://omnk3xsvf.bkt.clouddn.com/8af2f0c5a8fde293cbc8f82b7a074fa9.jpg)
+
+![Alt text](../pic/luobo_zhang.jpg)	
 
 ## 车讯互联
-![Alt text](http://omnk3xsvf.bkt.clouddn.com/chexun_logo.png)
+![Alt text](../pic//f_logo.png)
 
 2012/05--2015/06 （清华科技园办公）
 
@@ -181,8 +181,10 @@ tags: 简历 android
 	
 	C/C++:了解c、c++编译运行过程。熟悉JNI接口编辑
 	
-	Python:了解Python的编程设计，能使用Python构建Tenflow的模型训练
+	串口通信技术，UI布局适配，性能优化，多线程，常用的开源框架
 	
 	工具链：Android studio、Unity3D、Jenkins、Junit、Espresso、Gradle、pepline、MyQR、Git等
+	
+	
 
 
